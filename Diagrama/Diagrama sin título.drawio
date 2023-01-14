@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T15:56:27.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vsjfRyrtKF3Y1Za44aHc" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T15:56:43.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="A_EZJF0W3YZVLBx5wR85" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2128" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="mSjZn32Qevb0KPuKcFiF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSjZn32Qevb0KPuKcFiF-1" target="mSjZn32Qevb0KPuKcFiF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSjZn32Qevb0KPuKcFiF-1" value="Valor Total&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mSjZn32Qevb0KPuKcFiF-1" value="Calculo Valor Total&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mSjZn32Qevb0KPuKcFiF-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSjZn32Qevb0KPuKcFiF-3" target="mSjZn32Qevb0KPuKcFiF-75">
